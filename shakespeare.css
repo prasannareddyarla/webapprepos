@@ -1,0 +1,46 @@
+.speech {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black
+
+}
+.stage-direction {
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+    background-color:red;
+}
+.name {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+.stage-direction:hover{
+    background-color: cornsilk;
+    color: darkgreen;
+}
+.valentine,.JULIA{
+    color: deepskyblue;
+}
+.proteus,.LUCETTA{
+    color: violet;
+}
+.speed,.ROBERT{
+    color: goldenrod;
+}
+table,
+th,
+td {
+    border: 7px solid blue;
+    border-collapse: collapse;
+    width: auto;
+    margin: left;
+    text-align: center;
+    padding: 20px;
+    border-spacing: 4px;
+    background-color: greenyellow;
+}
+.name:hover{
+    text-shadow:2px 2px red;
+
+}
